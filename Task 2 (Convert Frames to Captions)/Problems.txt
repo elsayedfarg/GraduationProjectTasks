@@ -1,0 +1,16 @@
+1. Repetition
+
+When :
+The model sees multiple similar objects and can't differentiate them well.
+It tries to be more descriptive but loops due to weak context handling.
+
+Problem :
+isn’t always perfect at deduplicating or diversifying nouns like humans do naturally.
+
+
+
+2. Cut-off or incomplete captions
+
+When : 
+Prompt length is limited or the model reached the end of its generation window too early.
+There's ambiguity in the image 
